@@ -1,0 +1,11 @@
+version: '2.3'
+
+services:
+  train_velocity:
+    container_name: train_velocity
+    image: train_velocity:latest
+    build: ./
+    volumes:
+      - ./data/:/workspace/data
+      #- ./out:/workspace/out
+
