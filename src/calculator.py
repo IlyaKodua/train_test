@@ -64,7 +64,7 @@ class VelocityCalculator:
         fps = cap.get(cv2.CAP_PROP_FPS)
         result = cv2.VideoWriter(
             output_video_path,
-            cv2.VideoWriter_fourcc(*"XVID"),
+            cv2.VideoWriter_fourcc(*"MP4V"),
             fps,
             (int(cap.get(3)), int(cap.get(4))),
         )

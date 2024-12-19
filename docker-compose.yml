@@ -7,5 +7,4 @@ services:
     build: ./
     volumes:
       - ./data/:/workspace/data
-      #- ./out:/workspace/out
 
