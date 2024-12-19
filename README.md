@@ -1,5 +1,5 @@
 ### Результат
-Результат можно просто просмотреть в `out/train_vel.mov`
+Результат можно просто просмотреть в `out/train_vel.mp4`
 
 
 ![Результат](data/train_vel.gif)
@@ -16,7 +16,7 @@ docker-compose up --build
 
 После завершения работы алгоритма видео можно скопировать из контейнера с помощью следующей команды:
 ```
-docker cp train_velocity:/workspace/out/train_vel.mov train_vel.mov
+docker cp train_velocity:/workspace/out/train_vel.mp4 train_vel.mp4
 ```
 
 ### Описание алгоритма
