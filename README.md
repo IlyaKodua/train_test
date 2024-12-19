@@ -1,6 +1,6 @@
 ### Результат
 Результат можно просто просмотреть в `out/train_vel.mov`
-
+[![Посмотреть видео](https://github.com/IlyaKodua/train_test/blob/main/out/train_vel.mov))
 ### Запуск Docker Compose
 
 Для сборки и запуска контейнеров используется команда:
