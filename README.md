@@ -1,9 +1,6 @@
 ### Результат
 Результат можно просто просмотреть в `out/train_vel.mov`
-<video width="320" height="240" controls>
-  <source src="/out/train_vel.mp4" type="video/mp4">
-  Ваш браузер не поддерживает тег video.
-</video>
+![Альтернативный текст для GIF](data/train_vel.gif)
 
 ### Запуск Docker Compose
 
