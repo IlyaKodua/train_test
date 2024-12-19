@@ -1,6 +1,9 @@
 ### Результат
 Результат можно просто просмотреть в `out/train_vel.mov`
-![Альтернативный текст для GIF](data/train_vel.gif)
+
+
+![Результат](data/train_vel.gif)
+
 
 ### Запуск Docker Compose
 
